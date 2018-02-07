@@ -1,0 +1,15 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+node_modules
+www
+.tmp
+.sass-cache
+.vscode
+typings
+coverage
+platforms
+plugins
+.sourcemaps
+*.swp
+*.swo
+*.log
+*.DS_Store
